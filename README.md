@@ -9,7 +9,7 @@ My goal is to help more people learn how to code through self learning instead o
 ### 🔭 I’m currently working on ...
 
 - My real estate technology startup [Lofty AI](https://www.lofty.ai)
-- My custom mechancial keyboard business (https://keebsforall.com)
+- My custom mechancial keyboard business [KeebsForAll](https://keebsforall.com)
 - [Robinhood A.I. Trading Bot](https://github.com/pmdbt/RobinhoodAI)
 - Blogs on [Medium](https://medium.com/@jerethchu)
 
